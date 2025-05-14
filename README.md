@@ -20,6 +20,8 @@ It is built using SQL with proper use of:
 
 ## 🧱 Database Structure
 
+  ERD:  https://drive.google.com/file/d/1cJCEmzMktiCq__PYmcfKxjMedmlRzxYQ/view?usp=sharing 
+
 ### Included Tables:
 1. **Users** – Details of service providers and seekers
 2. **Services** – Listings of services by providers
